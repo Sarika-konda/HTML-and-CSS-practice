@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: chocolate;
+    margin: 50px 5px 0 2px;
+    border: 5px solid;
+    text-align: center;
+    display: inline-block;
+
+}
+
+#one{
+    position: static;
+}
+
+#two{
+    position: relative;
+    top: 20px;
+    left: 50px;
+}
+#three{
+    position: absolute;
+    top: 200px;
+    left: 200px;
+}
+#four{
+    position: fixed;
+}

@@ -1,0 +1,12 @@
+#para{
+    background-color: azure;
+    color: rgba(0,0,255,0.7 );
+}
+#para1{
+    background-image: url(/Logo.png);
+    background-color: bisque;
+    height: 240px;
+    width: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
